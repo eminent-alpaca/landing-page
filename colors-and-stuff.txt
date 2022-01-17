@@ -1,0 +1,9 @@
+Dark background: #1F2937
+Quote background: #E5E7EB
+Button color: #e882F6
+
+Hero Text: 48px Extra-Bold #F9FAF8
+Hero secondary text: 18px #EBE7EB
+Header logo text: 24px #F9FAG8
+Info header text: 36px Extra-bold #1F2937
+Quote text: 36px light italic #1F2937
